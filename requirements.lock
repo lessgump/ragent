@@ -157,6 +157,7 @@ pypdf==4.2.0
 python-dateutil==2.9.0.post0
     # via unstructured-client
 python-dotenv==1.0.1
+    # via ragent
     # via uvicorn
 python-iso639==2024.4.27
     # via unstructured
